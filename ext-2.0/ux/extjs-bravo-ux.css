@@ -1,0 +1,210 @@
+/*
+ *拓展功能, 渲染MultiSelect控件
+ * Ext JS Library 2.2
+ * Copyright(c) 2006-2008, Ext JS, LLC.
+ * licensing@extjs.com
+ * 
+ * http://extjs.com/license
+ *----------------------------------------------Start------------------------------------------------------
+*/
+
+
+.ux-mselect{
+    overflow:auto;
+    background:white;
+    position:relative; /* for calculating scroll offsets */
+    zoom:1;
+    overflow:auto;	
+}
+.ux-mselect-item{
+    font:normal 12px tahoma, arial, helvetica, sans-serif;
+    padding:2px;
+    border:1px solid #fff;
+    white-space: nowrap;
+    cursor:pointer;
+}
+.ux-mselect-selected{
+	border:1px dotted #a3bae9 !important;
+    background:#DFE8F6;
+    cursor:pointer;
+}
+
+.x-view-drag-insert-above { 
+    border-top:1px dotted #3366cc; 
+} 
+.x-view-drag-insert-below { 
+    border-bottom:1px dotted #3366cc; 
+} 
+
+/*
+------------------------------------------MultiSelect.css End---------------------------------------------------
+*/
+
+
+
+
+/*
+ *拓展功能, 渲染UploadDialogbutton控件
+ * Ext JS Library 2.0 extension
+ * Copyright(c) 2006-2008
+ * Author   Maxim Bazhenov (aka MaximGB) 
+ * http://www.max-bazhenov.com/dev/upload-dialog-2.0/index.php
+ *----------------------------------------------Start------------------------------------------------------
+*/
+@CHARSET "UTF-8";
+
+.ext-ux-uploaddialog-addbtn
+{
+	background: url('../resources/bravo-images/uploadDialog-images/file-add.gif') no-repeat left center !important;
+}
+
+.ext-ux-uploaddialog-removebtn
+{
+	background: url('../resources/bravo-images/uploadDialog-images/file-remove.gif') no-repeat left center !important;
+}
+
+.ext-ux-uploaddialog-resetbtn
+{
+	background: url('../resources/bravo-images/uploadDialog-images/reset.gif') no-repeat left center !important;
+}
+
+.ext-ux-uploaddialog-uploadstartbtn
+{
+	background: url('../resources/bravo-images/uploadDialog-images/upload-start.gif') no-repeat left center !important;
+}
+
+.ext-ux-uploaddialog-uploadstopbtn
+{
+	background: url('../resources/bravo-images/uploadDialog-images/upload-stop.gif') no-repeat left center !important;
+}
+
+.ext-ux-uploaddialog-indicator-stoped
+{
+	width: 16px;
+	height: 16px;
+	background: url('../resources/bravo-images/uploadDialog-images/done.gif') no-repeat center center;
+}
+
+.ext-ux-uploaddialog-indicator-processing
+{
+	width: 16px;
+	height: 16px;	
+	background: url('../resources/bravo-images/uploadDialog-images/loading.gif') no-repeat center center;
+}
+
+.ext-ux-uploaddialog-state
+{
+	text-align: center;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+/* Queued */
+.ext-ux-uploaddialog-state-0
+{
+	background-image: url('../resources/bravo-images/uploadDialog-images/uncheck.gif');
+}
+
+/* Finished */
+.ext-ux-uploaddialog-state-1
+{
+	background-image: url('../resources/bravo-images/uploadDialog-images/check.gif');
+}
+
+/* Failed */
+.ext-ux-uploaddialog-state-2
+{
+	background-image: url('../resources/bravo-images/uploadDialog-images/failed.gif');
+}
+
+/* Processing */
+.ext-ux-uploaddialog-state-3
+{
+	background-image: url('../resources/bravo-images/uploadDialog-images/file-uploading.gif');	
+}
+
+/* Progress bar fix */
+.ext-ie7 .ext-ux-uploaddialog-dialog .x-progress-bar .x-progress-text div
+{
+	display: none;
+}
+
+.ext-ie7 .ext-ux-uploaddialog-dialog .x-progress-text-back
+{
+	position: absolute;
+	left: 0px;
+	right: 0px;
+}
+
+.ext-ie7 .ext-ux-uploaddialog-dialog .x-progress-text-back div
+{
+	width: auto !important;
+	white-space: nowrap;
+}
+
+/*
+------------------------------------------UploadDialogbutton.css End---------------------------------------------------
+*/
+
+
+
+
+
+/*
+ * Ext JS Library 2.2
+ * Copyright(c) 2006-2008, Ext JS, LLC.
+ * licensing@extjs.com
+ * 
+ * http://extjs.com/license
+ */
+
+/*
+ * Ext JS Library 2.0
+ * Copyright(c) 2006-2007, Ext JS, LLC.
+ * licensing@extjs.com
+ * 
+ * http://www.extjs.com/license
+ * 添加此样式说明是为了使得Panel上的超链接更为美观，没有下划线，图标文字对其，另外鼠标移到上方后出现下划线，
+ * 主要是界面上的“快捷菜单”考虑的
+ *----------------------------------------------Start------------------------------------------------------
+ */
+.profile-panel-body li {
+	margin:4px;	
+}
+.profile-panel-body li img {
+	width:16px;
+	height:16px;
+	vertical-align:bottom;
+	margin-right:0px;
+	margin-bottom:2px;
+}
+.profile-panel-body li a {
+	text-decoration:none;
+	color:#000000;
+}
+.profile-panel-body li a:hover {
+	text-decoration:underline;
+	color:#0000ff;
+}
+
+/*
+----------------------------------------------profile-panel-body.css End------------------------------------------------
+*/
+
+
+/*
+ * 为图标ComboBox设置的css风格样式
+ *----------------------------------------------Start------------------------------------------------------
+ */
+
+.x-icon-combo-img{
+	width:16px;
+	height:16px;
+	vertical-align:bottom;
+	margin-right:5px;
+	margin-bottom:0px;
+}
+	
+/*
+----------------------------------------------图标ComboBox.css End------------------------------------------------
+*/

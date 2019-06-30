@@ -1,0 +1,327 @@
+.refresh {
+    background-image:url(./resources/bravo-images/refresh.gif) !important;
+}
+
+.delete {
+    background-image:url(./resources/bravo-images/delete.gif) !important;
+}
+
+.add {
+    background-image:url(./resources/bravo-images/add.gif) !important;
+}
+
+.search {
+    background-image:url(./resources/bravo-images/search.gif) !important;
+}
+
+.cross {
+    background-image:url(./resources/bravo-images/cross.gif) !important;
+}
+.reset {
+    background-image:url(./resources/bravo-images/arrow_refresh.png) !important;
+}
+.save {
+    background-image:url(./resources/bravo-images/save.gif) !important;
+}
+.m2mSelect {
+    background-image:url(./resources/bravo-images/cog.png) !important;
+}
+.popuSelect {
+    background-image:url(./resources/bravo-images/zoom.png) !important;
+}
+.workflow {
+    background-image:url(./resources/bravo-images/workflow.png) !important;
+}
+.loginOut {
+    background-image:url(./resources/bravo-images/login_out.gif) !important;
+}
+.attach {
+    background-image:url(./resources/bravo-images/attach.png) !important;
+}
+
+.profile {
+    background-image:url(./resources/bravo-images/profile.png) !important;
+}
+
+.headpanel{
+	border:0 none;
+	background:#213D78 ;
+	padding-top:0px;
+	padding-left:0px;
+}
+.changeskin {
+    background-image:url(./resources/bravo-images/nice-images/changeskin.png) !important;
+}
+.logininskin {
+    background-image:url(./resources/bravo-images/nice-images/loginin.gif) !important;
+}
+.greenskin {
+    background-image:url(./resources/bravo-images/nice-images/greenskin.bmp) !important;
+}
+.blackskin {
+    background-image:url(./resources/bravo-images/nice-images/blackskin.bmp) !important;
+}
+.grayskin {
+    background-image:url(./resources/bravo-images/nice-images/grayskin.bmp) !important;
+}
+.pepperskin {
+    background-image:url(./resources/bravo-images/nice-images/pepperskin.bmp) !important;
+}
+.pinkskin {
+    background-image:url(./resources/bravo-images/nice-images/pinkskin.bmp) !important;
+}
+.purpleskin {
+    background-image:url(./resources/bravo-images/nice-images/purpleskin.bmp) !important;
+}
+.blueskin {
+    background-image:url(./resources/bravo-images/nice-images/blueskin.bmp) !important;
+}
+.slateskin {
+    background-image:url(./resources/bravo-images/nice-images/slateskin.bmp) !important;
+}
+.doorout {
+    background-image:url(./resources/bravo-images/nice-images/doorout.png) !important;
+}
+.word {
+    background-image:url(./resources/bravo-images/nice-images/word.png) !important;
+}
+.excel {
+    background-image:url(./resources/bravo-images/nice-images/excel.png) !important;
+}
+.pdf {
+    background-image:url(./resources/bravo-images/nice-images/pdf.png) !important;
+}
+.favorite {
+    background-image:url(./resources/bravo-images/nice-images/favorite.png) !important;
+}
+.recover {
+    background-image:url(./resources/bravo-images/nice-images/recover.png) !important;
+}
+.overdue {
+    background-image:url(./resources/bravo-images/nice-images/overdue.png) !important;
+}
+.debug {
+    background-image:url(./resources/bravo-images/nice-images/debug.png) !important;
+}
+.shortcut {
+    background-image:url(./resources/bravo-images/nice-images/shortcut.png) !important;
+}
+.output {
+    background-image:url(./resources/bravo-images/nice-images/output.png) !important;
+}
+.stop_blue {
+    background-image:url(./resources/bravo-images/nice-images/stop_blue.png) !important;
+}
+.chart {
+    background-image:url(./resources/bravo-images/nice-images/chart.png) !important;
+}
+.abnormsheet {
+    background-image:url(./resources/bravo-images/nice-images/abnormsheet.png) !important;
+}
+.comsheet {
+    background-image:url(./resources/bravo-images/nice-images/comsheet.png) !important;
+}
+.vipsheet {
+    background-image:url(./resources/bravo-images/nice-images/vipsheet.png) !important;
+}
+.vipinfo {
+    background-image:url(./resources/bravo-images/nice-images/vipinfo.png) !important;
+}
+.vipsheet {
+    background-image:url(./resources/bravo-images/nice-images/vipsheet.png) !important;
+}
+.inquery {
+    background-image:url(./resources/bravo-images/nice-images/inquery.png) !important;
+}
+.betask {
+    background-image:url(./resources/bravo-images/nice-images/betask.png) !important;
+}
+.task {
+    background-image:url(./resources/bravo-images/nice-images/task.png) !important;
+}
+.endtask {
+    background-image:url(./resources/bravo-images/nice-images/endtask.png) !important;
+}
+.aftask {
+    background-image:url(./resources/bravo-images/nice-images/aftask.png) !important;
+}
+.dotask {
+    background-image:url(./resources/bravo-images/nice-images/dotask.png) !important;
+}
+.spe {
+    background-image:url(./resources/bravo-images/nice-images/spe.png) !important;
+}
+.delayres {
+    background-image:url(./resources/bravo-images/nice-images/delayres.png) !important;
+}
+.airport {
+    background-image:url(./resources/bravo-images/nice-images/airport.png) !important;
+}
+.vipser {
+    background-image:url(./resources/bravo-images/nice-images/vipser.png) !important;
+}
+.users {
+    background-image:url(./resources/bravo-images/nice-images/users.png) !important;
+}
+.role {
+    background-image:url(./resources/bravo-images/nice-images/role.png) !important;
+}
+.perm {
+    background-image:url(./resources/bravo-images/nice-images/perm.png) !important;
+}
+.resource {
+    background-image:url(./resources/bravo-images/nice-images/resource.png) !important;
+}
+.mode {
+    background-image:url(./resources/bravo-images/nice-images/mode.png) !important;
+}
+.dept {
+    background-image:url(./resources/bravo-images/nice-images/dept.png) !important;
+}
+.button {
+    background-image:url(./resources/bravo-images/nice-images/button.png) !important;
+}
+.info {
+    background-image:url(./resources/bravo-images/nice-images/info.png) !important;
+}
+.new {
+    background-image:url(./resources/bravo-images/nice-images/new.png) !important;
+}
+.notice {
+    background-image:url(./resources/bravo-images/nice-images/notice.png) !important;
+}
+.request {
+    background-image:url(./resources/bravo-images/nice-images/request.png) !important;
+}
+.eye {
+    background-image:url(./resources/bravo-images/nice-images/eye.png) !important;
+}
+.log {
+    background-image:url(./resources/bravo-images/nice-images/log.png) !important;
+}
+.onusers {
+    background-image:url(./resources/bravo-images/nice-images/onusers.png) !important;
+}
+.baseedit {
+    background-image:url(./resources/bravo-images/nice-images/baseedit.png) !important;
+}
+.dataedit {
+    background-image:url(./resources/bravo-images/nice-images/dataedit.png) !important;
+}
+.baseedit {
+    background-image:url(./resources/bravo-images/nice-images/baseedit.png) !important;
+}
+.daoedit {
+    background-image:url(./resources/bravo-images/nice-images/daoedit.png) !important;
+}
+.x-tree-node-icon-noneDisplay
+{
+    display:none;
+}
+/** 新闻页面图标样式**/
+.topList_01{padding-left:1px;}
+.topList_01 li{line-height:16px;}
+.topList_01 li a,.topList_01 li a:visited{text-decoration:none;}
+.topList_01 li a:hover,.topList_01 li a:active{color:#f00; text-decoration:underline;}
+ol label{width:13px;height:11px;background:url(./resources/bravo-images/con_mj_001.gif) no-repeat 0 0;overflow:hidden;float:left;margin:4px 5px 0 0;}
+ol .No1{background-position:0 -100px;}
+ol .No2{background-position:-50px -100px;}
+ol .No3{background-position:-100px -100px;}
+ol .No4{background-position:-150px -100px;}
+ol .No5{background-position:-200px -100px;}
+ol .No6{background-position:-250px -100px;}
+ol .No7{background-position:0 -150px;}
+ol .No8{background-position:-50px -150px;}
+ol .No9{background-position:-100px -150px;}
+ol .No10{background-position:-150px -150px;}
+ol .No11{background-position:-250px -700px;}
+ol .No12{background-position:-200px -700px;}
+ol .No13{background-position:0 -750px;}
+ol .No14{background-position:-50px -750px;}
+ol .No15{background-position:-100px -750px;}
+ol .No16{background-position:-150px -750px;}
+ol .No17{background-position:-200px -750px;}
+ol .No18{background-position:-250px -750px;}
+ol .No19{background-position:0 -800px;}
+ol .No20{background-position:-50px -800px;}
+
+
+.x-window-footer {
+    position: relative;
+    top: 0;
+    right: 0;
+}
+.x-tab-strip SPAN.x-tab-strip-text {
+    font-size: 12px;
+}
+.x-panel-header {
+    font-size: 12px;
+}
+.x-tree-node {
+    font-size: 12px;
+}
+.x-grid3-hd-row TD {
+    font-size: 12px;
+}
+.x-grid3-row TD {
+    font-size: 12px;
+    LINE-HEIGHT: 16px;
+}
+.x-tip .x-tip-bd {
+    font-size: 12px;
+}
+.x-tip h3{
+    font-size: 12px;
+}
+.x-tip .x-tip-bd-inner{
+    font-size:12px;
+}
+.x-panel-tl .x-panel-header {
+    FONT: normal 12px tahoma,arial,verdana,sans-serif;
+}
+.x-form-field {
+    FONT: 12px tahoma,arial,helvetica,sans-serif   
+}
+.x-small-editor .x-form-field {
+    FONT: 12px tahoma,arial,helvetica,sans-serif   
+}
+.x-combo-list-item {
+    FONT: 12px tahoma,arial,helvetica,sans-serif;   
+}   
+.x-menu-list-item {
+    FONT: 12px tahoma,arial,sans-serif;
+}
+.x-window-tl .x-window-header {
+    FONT: bold 12px tahoma,arial,verdana,sans-serif;   
+}
+.x-layout-split-west .x-layout-mini {   
+    BACKGROUND-IMAGE: url(../images/mini-left.jpg);   
+}
+.ext-ie .x-form-text {
+    margin-top:1px;
+} /* the textField missing bottom line */
+.x-form-item {   
+    FONT: 12px tahoma,arial,helvetica,sans-serif
+}
+.x-grid-group-hd DIV {   
+    FONT: bold 12px tahoma,arial,helvetica,sans-serif;
+}
+
+..x-btn-text-icon .x-btn-center .x-btn-text {ext-all.css (line 227)
+background-position:0pt 2px;
+background-repeat:no-repeat;
+padding:3px 0pt 2px 18px;
+}
+.ext-gecko .x-btn button {ext-all.css (line 222)
+padding-left:0pt;
+padding-right:0pt;
+}
+.x-btn button{
+    font-size:11px;
+}
+
+.x-tab-strip-active span.x-tab-strip-text{cursor:default;color:#ff0000;font-weight:bold;}
+
+/* overwrite ext-all.css 由于修改了ext-all.css里面的东西,防止以后更新高版本的extjs的resource文件,将此ext-all文件覆盖，导致修改丢失*/
+.x-form-invalid-tip .x-tip-tc{background:url(resources/images/default/form/error-tip-corners.gif) repeat-x 0 -12px;padding-top:6px;height:6px;}
+.x-panel-mc{border:0 none;padding:0;margin:0;font:normal 11px tahoma,arial,helvetica,sans-serif;padding-top:0px;background:#dfe8f6;}
